@@ -20,5 +20,5 @@ python setup.py install && cd ..
 
 ## Usage
 ```
-python extract_frames.py --source_dir [SOURCE DIRECTORY] --target_dir [TARGET DIRECTORY] --n_cpus [NUM OF CPUS]
+python parallel_frame_extract.py --source_dir [SOURCE DIRECTORY] --target_dir [TARGET DIRECTORY] --n_cpus [NUM OF CPUS]
 ```
